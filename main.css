@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.element {
+  position: fixed;
+  height: 30px;
+  width: 30px;
+  border: solid 5px;
+  border-radius: 50%;
+}
